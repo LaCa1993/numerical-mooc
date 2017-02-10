@@ -1,0 +1,1 @@
+print("This is the first step to learn the great world of CFD using VCS like Git.")
